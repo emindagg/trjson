@@ -9,7 +9,10 @@ Cities of Turkey, Turkish Republic of Northern Cyprus, Cyprus maps with coordina
 | tr-cities-cyprus.json | Türkiye + KKTC + GKRY |
 | tr-cities-kktc.json | Türkiye + KKTC |
 | tr-cities.json | Türkiye |
-
+hgm_ilce.geojson
+hgm_il.geojson
+https://www.harita.gov.tr/public/sunum/geojson/iller.geojson
+https://www.harita.gov.tr/public/sunum/geojson/ilceler.geojson
 
 | Map |
 |:-------------------------:|
